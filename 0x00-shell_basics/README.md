@@ -9,3 +9,4 @@
 8. Script that deletes a file from a directory in a directory
 9. Deleting a directory in another directory
 10. Script that changes the working directory to the previous one
+11. Script that list all files
