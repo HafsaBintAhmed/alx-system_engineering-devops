@@ -10,3 +10,4 @@
 9. Deleting a directory in another directory
 10. Script that changes the working directory to the previous one
 11. Script that list all files
+12. Script that prints the file name iamafile
