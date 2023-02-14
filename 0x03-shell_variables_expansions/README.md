@@ -8,3 +8,4 @@
 7. Script that creates a new global variable
 8. Script that prints the result of the addition of 128
 9. Script that prints the result of dividing
+10. Script that displays the result of BREATH to the power LOVE
