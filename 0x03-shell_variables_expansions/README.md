@@ -6,3 +6,4 @@
 5. Script that lines all local variales and environment variables, and functions
 6. Script that creates a new local variable
 7. Script that creates a new global variable
+8. Script that prints the result of the addition of 128
