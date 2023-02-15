@@ -34,3 +34,4 @@ Displaying lines containing the pattern “root” and 3 lines after them in the
 18. Displaying all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 include capital letters as well
+19. Replacing all characters A and c from input to Z and e respectively.
