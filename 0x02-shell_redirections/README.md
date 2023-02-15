@@ -36,3 +36,4 @@ Displaying lines containing the pattern “root” and 3 lines after them in the
 include capital letters as well
 19. Replacing all characters A and c from input to Z and e respectively.
 20. A script that removes all letters c and C from input.
+21. A script that reverse its input.
