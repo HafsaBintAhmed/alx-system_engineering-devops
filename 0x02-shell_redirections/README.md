@@ -16,3 +16,9 @@ The file iacta will be in the working directory
 
 The current and parent directories should not be taken into account
 Hidden directories should be counted
+12. script that displays the 10 newest files in the current directory.
+
+Requirements:
+
+One file per line
+Sorted from the newest to the oldest
